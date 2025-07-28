@@ -24,9 +24,9 @@ const data = [
     hint: 'желание'
   },
   {
-    word: 'believe',
+    word: 'believes',
     prompt: 'She ___ in miracles.',
-    answer: 'believe',
+    answer: 'believes',
     hint: 'верить'
   },
   {
